@@ -1,1 +1,2 @@
-Обычный кликалка
+encremental decremental
+balance
